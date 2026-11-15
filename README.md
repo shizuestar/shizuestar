@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Ahmad! 👋<br>*(aka @shizuestar)*<br><br>I'm a student and aspiring software developer from Indonesia. I enjoy building web and mobile applications, translating complex systems into clean code, and designing modern, minimalist user interfaces.
+# Hi there, I'm Ahmad! 👋<br>*(aka @shizuestar)*<br><br>I'm an Electrical Engineering student from Indonesia with a strong foundation in software development. I enjoy bridging hardware and software—building web and mobile applications, exploring IoT and autonomous systems, and translating complex ideas into clean, minimalist code.
 
 
 ## 🌐 Socials:
